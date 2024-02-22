@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Mybank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@mybank.com"
+    email: "{cipher}a27039193ba24be47e6ffbf982175944a1c08fbf4e9f7700047817c57e21c07fe18f250c7205bf7b008372d7bc3d1671"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
